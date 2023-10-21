@@ -1,1 +1,0 @@
-__all__ = ['factorial', 'func2', 'var1', 'var2']
